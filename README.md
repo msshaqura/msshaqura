@@ -26,5 +26,4 @@ Improve my skills in data analytics and contribute to real-world data projects.
 
 * LinkedIn: https://www.linkedin.com/in/msshaqura/
 * E-mail: msshaqura@hotmail.com
-* Email: (your email)
 
