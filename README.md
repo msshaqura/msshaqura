@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mohammed SHAQURA 👋
 
-<!--
-**msshaqura/msshaqura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** passionate about transforming data into meaningful insights.
+Currently building projects using **SQL, Python, Power BI and Tableau**.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL
+* Python (Pandas, NumPy)
+* Data Cleaning
+* Data Visualization
+* Tableau / Power BI
+
+## Projects
+
+* Sales Data Analysis
+* Customer Behavior Analysis
+* Data Cleaning with SQL
+* Tableau Dashboard Project
+
+## Goals
+
+Improve my skills in data analytics and contribute to real-world data projects.
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/msshaqura/
+* E-mail: msshaqura@hotmail.com
+* Email: (your email)
+
