@@ -6,6 +6,7 @@ Currently building projects using **SQL, Python, Power BI and Tableau**.
 ## Skills
 <!-- LANGUES DE PROGRAMMATION ET OUTILS D'ANALYSE -->
 [![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)](https://www.python.org) <!-- Langage de programmation -->
+[![SQL](https://img.shields.io/badge/SQL-Query%20Language-informational)](https://en.wikipedia.org/wiki/SQL)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Spreadsheets-green?logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/) <!-- Tableur en ligne -->
 [![Excel](https://img.shields.io/badge/Excel-Spreadsheets-green?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel) <!-- Tableur classique -->
 
@@ -15,7 +16,8 @@ Currently building projects using **SQL, Python, Power BI and Tableau**.
 [![S3](https://img.shields.io/badge/AWS%20S3-Storage-orange?logo=amazons3&logoColor=white)](https://aws.amazon.com/s3) <!-- Stockage objet -->
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb&logoColor=white)](https://www.mongodb.com) <!-- Base de données NoSQL -->
 [![Databricks](https://img.shields.io/badge/Databricks-Analytics-orange?logo=databricks&logoColor=white)](https://databricks.com) <!-- Plateforme d'analyse -->
-
+[![BigQuery](https://img.shields.io/badge/BigQuery-GCP-orange?logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org) <!-- Base de données relationnelle open-source -->
 <!-- BIBLIOTHÈQUES PYTHON POUR L'ANALYSE DE DONNÉES -->
 
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org) <!-- Manipulation de données -->
@@ -35,7 +37,7 @@ Currently building projects using **SQL, Python, Power BI and Tableau**.
 [![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white)](https://github.com) <!-- Contrôle de version -->
 [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) <!-- Éditeur de code -->
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)](https://streamlit.io) <!-- Déploiement d'applications Python -->
-
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20App-yellow)](https://huggingface.co/spaces/msshaqura/netflix_project)
 <!-- OUTILS DE PRODUCTIVITÉ ET DESIGN -->
 
 [![Notion](https://img.shields.io/badge/Notion-Productivity-black?logo=notion&logoColor=white)](https://www.notion.so) <!-- Organisation et notes -->
