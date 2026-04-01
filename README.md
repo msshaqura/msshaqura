@@ -42,12 +42,6 @@ Currently building projects using **SQL, Python, Power BI and Tableau**.
 [![Canva](https://img.shields.io/badge/Canva-Design-lightblue?logo=canva&logoColor=white)](https://www.canva.com) <!-- Design graphique -->
 [![Data Model](https://img.shields.io/badge/Data%20Model-Design-purple)](https://en.wikipedia.org/wiki/Data_model) <!-- Modélisation de données -->
 
-* SQL
-* Python (Pandas, NumPy)
-* Data Cleaning
-* Data Visualization
-* Tableau / Power BI
-
 ## Projects
 
 * Sales Data Analysis
