@@ -61,22 +61,47 @@ Before my data training, I was already analyzing 200+ learners' data and buildin
 
 ## Projects
 
+### 🚖 Uber Pickups Prediction
+> Analyzed 4.5M NYC pickup records using clustering to identify high-demand zones and optimize driver positioning for reduced passenger wait times.
+Built an interactive dashboard with dynamic KMeans clustering and time-based filtering to detect demand hotspots.
+- **Stack:** Python · Pandas  · Scikit-learn  · Folium  · Plotly · Streamlit
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/uber_pickups_project)
+
+### 🎯 Conversion Rate Prediction
+> Built a machine learning model to predict newsletter subscription based on user behavior, achieving high predictive performance and identifying key conversion drivers such as page visits, user type, and country.
+- **Stack:** Python · Pandas · Scikit-learn · XGBoost  · Streamlit
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/conversion_rate_prediction_project)
+
+### 🛒 Walmart Sales Forecasting
+> Built a machine learning pipeline to predict weekly sales for Walmart stores using economic and external indicators such as CPI, unemployment rate, fuel price, and temperature.
+The project includes full data preprocessing, feature engineering, model comparison, and deployment as an interactive app on Hugging Face Spaces.
+- **Stack:** Python · Pandas  · Scikit-learn · Regression Models  · Streamlit
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/walmart_project)
+
+### 💘 Tinder Match Behavior Analysis
+> Analyzed speed dating data to identify factors driving match decisions and user behavior patterns for Tinder optimization. Found that confidence and attractiveness had stronger impact than shared interests.
+- **Stack:** Python · Pandas · Seaborn · Plotly  · Streamlit
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/tinder_projet)
+
+### ✈️ Aircraft Operations Analysis
+> Analyzed aviation datasets using Google BigQuery to identify top-performing aircraft, busiest airports, and yearly airline performance based on RPM and ASM growth metrics.
+- **Stack:** SQL · BigQuery · Streamlit · Data Analysis
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/aircraft_bigquery_project)
+
+### ✈️ Aircraft Data Analysis
+> Built an alternative aviation analytics project using PostgreSQL and Jupyter Notebook to demonstrate SQL skill transferability across platforms. Identified most active aircraft, busiest airports, and top airline performance years using RPM and ASM metrics.
+- **Stack:** SQL · PostgreSQL · Jupyter Notebook · Streamlit  · Data Analysis
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/aircraft_postgres_project)
+
+### 🏬 Superstore ETL Dashboard
+> Developed an end-to-end ETL pipeline to clean retail sales CSV data, load it into a star-schema database using PostgreSQL, and build an interactive dashboard for sales, profit, and customer insights.
+- **Stack:** Python · Pandas · SQLAlchemy · Plotly · Streamlit
+- **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/superstore_project)
+
 ### 🎬 Netflix Data Analysis
-> Exploratory analysis of the Netflix catalog — content trends, dominant genres, temporal evolution
-- **Stack:** Python · Pandas · Matplotlib · Seaborn · Plotly
+> Built an interactive dashboard to analyze Netflix catalog data, uncovering genre trends, country distribution, and seasonality of content releases across 127 countries.
+- **Stack:** Python · Pandas · Matplotlib · Seaborn · Plotly  · Streamlit
 - **Live demo:** [Hugging Face Spaces](https://huggingface.co/spaces/msshaqura/netflix_project)
-
-### 📊 Sales Data Analysis
-> Commercial performance analysis — customer segmentation, KPIs, growth lever identification
-- **Stack:** Python · Pandas · Power BI
-
-### 🧹 Data Cleaning with SQL
-> Data normalization pipeline — handling missing values, duplicates, and anomalies on raw datasets
-- **Stack:** SQL · PostgreSQL
-
-### 👥 Customer Behavior Analysis
-> Behavioral segmentation via clustering — customer profiles, retention rates, actionable recommendations
-- **Stack:** Python · Scikit-learn · Tableau
 
 ---
 
