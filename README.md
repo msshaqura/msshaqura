@@ -109,7 +109,7 @@ The project includes full data preprocessing, feature engineering, model compari
 
 | Period | Role | Organization |
 |---|---|---|
-| 2024–2025 | Data Analysis Training (CDSD Bac+4) | Jedha Bootcamp · Paris |
+| 2025–2026 | Data Analysis Training (CDSD Bac+4) | Jedha Bootcamp · Paris |
 | 2023–2025 | Business Relations Manager | CERTA · Vénissieux |
 | 2017–2023 | Pedagogical Coordinator & Trainer | CERTA · Vénissieux |
 
