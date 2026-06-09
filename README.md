@@ -2,7 +2,7 @@
 
 **Atypical profile · 12 years of field experience → Data career transition**
 
-Before my data training, I was already analyzing 200+ learners' data and building dashboards for management teams as a pedagogical coordinator. After completing an intensive Data Analysis program (CDSD Bac+4, Jedha Bootcamp), I am currently sitting certification exams. I turn raw data into actionable decisions.
+Before my data training, I was already analyzing 200+ learners' data and building dashboards for management teams as a pedagogical coordinator. After completing intensive training at Jedha Bootcamp, I have successfully passed my certification exams, validating 3 out of 6 core blocks of the CDSD (Bac+4) curriculum, alongside 1 block of the AIA (Artificial Intelligence Analyst) program. I turn raw data into actionable decisions.
 
 📍 Lyon, France · Available immediately · Remote or on-site
 
